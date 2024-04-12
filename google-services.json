@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916003845967",
+    "project_id": "smartparking-9f8f9",
+    "storage_bucket": "smartparking-9f8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916003845967:android:f254616d44c909981f773a",
+        "android_client_info": {
+          "package_name": "com.dominicsilveira.parkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLbn6NRGhaRZHQUBiVFrzci9beB8LdTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
